@@ -1,4 +1,8 @@
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+<!-- TOC --><a name="arcs-imperium-dune-retheme"></a>
+# Arcs: Imperium (Dune Retheme)
+A retheme of the board game Arcs into the Dune universe, using assets from the Dune: Imperium board games.
+
+<!-- TOC start -->
 
 - [Arcs: Imperium (Dune Retheme)](#arcs-imperium-dune-retheme)
    * [Contents](#contents)
@@ -15,9 +19,6 @@
 
 <!-- TOC end -->
 
-<!-- TOC --><a name="arcs-imperium-dune-retheme"></a>
-# Arcs: Imperium (Dune Retheme)
-A retheme of the board game Arcs into the Dune universe, using assets from the Dune: Imperium board games.
 
 <!-- TOC --><a name="contents"></a>
 ## Contents
